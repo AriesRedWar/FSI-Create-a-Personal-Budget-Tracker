@@ -13,5 +13,6 @@ for (let i = 0; i < monthlyExpenseQuestions.length; i++) {
 for (let i = 0; i < annualExpenseQuestions.length; i++) {
     annualExpenses += parseFloat(window.prompt(annualExpenseQuestions[i]))
 }
+// New Budget
 
 
